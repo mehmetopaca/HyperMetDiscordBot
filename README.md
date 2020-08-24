@@ -1,0 +1,2 @@
+# HyperMetDiscordBot
+Bot by Hyper
